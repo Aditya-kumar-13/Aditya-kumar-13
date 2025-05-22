@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Aditya</h1>
-<h3 align="left">A software currently studying at IIT Madras</h3>
+<h3 align="left">A software developer currently studying at IIT Madras</h3>
 
 - 🔭 I’m currently working on [My-Search-Engine](https://github.com/Aditya-kumar-13/My-Search-Engine)
 
