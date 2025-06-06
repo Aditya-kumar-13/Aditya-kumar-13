@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Aditya</h1>
 <h3 align="left">A software developer currently studying at IIT Madras</h3>
 
-- 🔭 I’m currently working on [My-Search-Engine](https://github.com/Aditya-kumar-13/My-Search-Engine)
+- 🔭 I’m currently working on [MiniLang](https://github.com/Aditya-kumar-13/MiniLang)
 
 - 📫 How to reach me **aks13042006@gmail.com**
 
