@@ -87,3 +87,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   </a> 
 </p>
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aditya-kumar-13&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-kumar-13&layout=compact&theme=tokyonight)
